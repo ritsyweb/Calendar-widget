@@ -55,7 +55,7 @@ npm start
 
 ![App Screenshot](preview.png)
 
-> 📌 Add a screenshot of your app named `preview.png` in the root folder
+
 
 ---
 
